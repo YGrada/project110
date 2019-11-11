@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/YGrada/project110.svg?branch=master)](https://travis-ci.com/YGrada/project110)
+[![Build Status](https://travis-ci.org/YGrada/project110.svg?branch=master)](https://travis-ci.org/YGrada/project110)
